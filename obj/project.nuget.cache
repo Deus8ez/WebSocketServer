@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qfMeXbTUcr9Bz6NFdWT0PyOWwnmGYY+KW0syRnEBNOqopyNmoCuNw5K0+09Ka9/XNps8q63nlK2oiEeoxLdcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darkhan\\Desktop\\WebSocketServerfinalNew\\WebSocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darkhan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
